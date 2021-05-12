@@ -158,6 +158,5 @@ temp/
 .ionide
 
 style-guide.md
-design/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node
